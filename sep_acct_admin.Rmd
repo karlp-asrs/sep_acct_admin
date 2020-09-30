@@ -1,0 +1,87 @@
+---
+title: "Real Estate Separate Account Administration"
+author: "Karl Polen"
+date: "9/30/2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,warning=FALSE,message=FALSE)
+```
+
+## Agenda
+
+-  To describe the framework for administration ASRS real estate assets in separate accounts
+-  The roles and responsibilities of:
+    +  Combined Asset Class Committee
+    +  Asset manager, if one is utilized
+    +  Property manager
+    +  Fund administrator
+    +  ASRS Staff and Staff Extension Consultant
+- L3 transition case study
+
+## Seprate Account Framework
+
+- The CACC governs the creation and administration of separate accounts by authorizing the hiring of investment management to implement a strategy
+- In a typical arrangement, an "asset manager" agreement is the primary contract.  The asset manager then subcontracts with property managers and a fund administrator.  
+- The property managers administer the properties including maintenance, lease administration and other property activities.  The property manager handles receipt and disbursement of funds for these activities.
+- The fund administrator performs similar functions for the fund itself -- hiring auditors, appraisors and other fund activities.  The fund administrator handles receipt and disbursement of funds for these purposes and manages the capital call process for calling or distributing funds with ASRS.
+
+## Separate Account Framework (2)
+
+- The CACC delegates certain authorities to staff and/or the staff extension consultant, typically including the negotiation of legal documents, certification of compliance with investment guidelines, approval of budgets and other such items.
+- The contract with the asset manager incorporates standard ASRS legal provisions for compliance with Arizona law.
+
+## Typical delegation among asset manager and property manager 
+
+-  The property manager handles property level activities including lease administration, leasing and maintenance
+    + For apartment and similar properties, the property manager executes leases in accordance with an approved form and pricing methodology
+    + For commercial properties, a separate leasing agent is often employed to market the properties but approval and negotiation of leases is handled by the asset manager
+    + The property manager delivers property level financial reports to the asset manager and fund administrator
+    + The property manager handles receipt and disbursement of funds for these purposes
+
+## Typical delegation among asset manager and fund administrator
+
+-  The fund administrator administers the fund
+    + It handles financial reporting and engages an auditor
+    + It handles valuation process and engagement of appraisors
+    + The fund administrator handles receipt and disbursement of funds for these purposes including to and from the properties
+    + The fund administrator administrates a capital call process for receipt and disbursement of funds to ASRS
+    
+## Alternate arrangement with no asset manager
+
+-  The CACC has approved the removal of the asset manager L3 from a separate account it has historically managed
+-  This requires us to document the contractual relationships and delegation in order to implement this
+-  There is no legal requirement for an "asset manager", only that investment management comply with certain statutory standards
+-  In the L3 case, that role is now handled by property managers and a fund administrator with duties that are collectively the equivalent of an asset manager implemented subject to the same statutory standards
+
+## L3 ownership structure
+
+-  The L3 separate account is an LLC which will be 100% owned by ASRS
+-  The LLC will contract with a fund administrator
+-  The LLC will contract with one or more property managers and leasing agents to manage the properties
+-  The foregoing contracts will incorporate standard ASRS provisions for compliance with Arisona law and will be negotiated by lawyers under contract with ASRS
+
+## CACC authority
+
+-  CACC will approve
+    + The hiring and firing of property management and the fund administrator
+    + The approval of annual budgets, business plans and leasing criteria for the properties and fund
+    + Material variances from annual budgets, business plans and leasing criteria involving greater than $250,000 aggregate funds per instance
+    + The sale or refinancing of any property
+    
+## Staff delegation
+
+-  The following duties are delegated to ASRS staff
+    +  The negotiation of legal documentants in consultation with ASRS approved lawyers
+    +  Approval of minor variances to budgets or business plans less than or equal to $250,000 in aggregate funds per instance
+    
+    
+## Staff extension consultant delegation
+
+-  Monitoring of activities and performance in accordance with approved business plans and budgets
+-  Selection of leasing agents provided that the agents have no legal authority to bind the property and the contract incorporates standard ASRS terms as negotiated by ASRS approved lawyers
+-  Approval of leases in accordance with the leasing criteria in the business plan with variance up to $50,000 per instance
+-  Approval of minor budget variances up to $50,000 per instance
+-  Make recommendations to staff and/or the CACC regarding variances greater than $50,000
+-  Make recommendations to CACC concerning sale, refinancing and other strategic matters
