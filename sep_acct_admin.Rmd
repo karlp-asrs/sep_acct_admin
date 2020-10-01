@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Separate Account Administration"
+title: "Real Estate Separate Account Administration for the L3 management transition"
 author: "Karl Polen"
 date: "9/30/2020"
 output: ioslides_presentation
@@ -20,22 +20,22 @@ knitr::opts_chunk$set(echo = FALSE,warning=FALSE,message=FALSE)
     +  ASRS Staff and Staff Extension Consultant
 - Modifications to the framework for the L3 management transition
 
-## Seperate Account Framework
+## Separate Account Framework
 
 - The CACC governs the creation and administration of separate accounts by authorizing the hiring of investment management to implement a strategy
-- The "asset manager" agreement is the primary contract.  The asset manager has legal authority to manage the fund and properties and typically subcontracts with property managers and a fund administrator.  The CACC retains "major decision rights".
+- The "asset manager" agreement is the primary contract.  The asset manager has legal authority to manage the fund and properties and typically retains property managers and a fund administrator.  The CACC retains "major decision rights".
 - The property managers administer the properties including maintenance, lease administration and other property activities.  The property manager handles receipt and disbursement of funds for these activities.
 
 ## Separate Account Framework (2)
 
-- The fund administrator performs similar functions for the fund itself -- hiring auditors, appraisors and other fund activities.  The fund administrator handles receipt and disbursement of funds for these purposes and manages the capital call process for calling or distributing funds with ASRS.
+- The fund administrator performs similar functions for the fund itself -- hiring auditors, appraisers and other fund activities.  The fund administrator handles receipt and disbursement of funds for these purposes and manages the capital call process for calling or distributing funds with ASRS.
 - The CACC delegates certain authorities to staff and/or the staff extension consultant, typically including the negotiation of legal documents, certification of compliance with investment guidelines, approval of budgets and other such items.
 - The contract with the asset manager incorporates standard ASRS legal provisions for compliance with Arizona law.
 
 ## Typical decision framework
 
 -  CACC typically retains authority to approve any modifications or variances to investment and financing criteria and the sale of assets
--  Negotiation of legal documents is delegated to ASRS staff in consultation with ASRS approved lawyers
+-  Negotiation of venture level legal documents is delegated to ASRS staff in consultation with ASRS approved lawyers
 -  Approval of budgets is delegated to the staff extension consultant
 -  The staff extension consultant performs various monitoring duties including strategic reviews and annual asset reviews
 
@@ -51,7 +51,7 @@ knitr::opts_chunk$set(echo = FALSE,warning=FALSE,message=FALSE)
 
 -  The fund administrator administers the fund
     + It handles financial reporting and engages an auditor
-    + It handles valuation process and engagement of appraisors
+    + It handles valuation process and engagement of appraisers
     + The fund administrator handles receipt and disbursement of funds for these purposes including to and from the properties
     + The fund administrator administrates a capital call process for receipt and disbursement of funds to ASRS
     
@@ -74,7 +74,7 @@ knitr::opts_chunk$set(echo = FALSE,warning=FALSE,message=FALSE)
 -  The L3 separate account is an LLC which will be 100% owned by ASRS
 -  The LLC will contract with a fund administrator 
 -  The LLC will contract with one or more property managers and leasing agents to manage the properties
--  The foregoing contracts will incorporate standard ASRS provisions for compliance with Arisona law and will be negotiated by lawyers under contract with ASRS
+-  The foregoing contracts will incorporate standard ASRS provisions for compliance with Arizona law and will be negotiated by lawyers under contract with ASRS
 
 ## CACC authority
 
@@ -87,7 +87,7 @@ knitr::opts_chunk$set(echo = FALSE,warning=FALSE,message=FALSE)
 ## Staff delegation
 
 -  The following duties are delegated to ASRS staff
-    +  The negotiation of legal documentants in consultation with ASRS approved lawyers
+    +  The negotiation of fund level legal documents in consultation with ASRS approved lawyers
     +  Approval of minor variances to budgets or business plans less than or equal to $250,000 in aggregate funds per instance
     
     
