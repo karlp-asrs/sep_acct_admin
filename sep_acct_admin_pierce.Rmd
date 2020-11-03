@@ -1,0 +1,117 @@
+---
+title: "Real Estate Separate Account Administration for the Pierce management transition"
+author: "Karl Polen"
+date: "9/30/2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,warning=FALSE,message=FALSE)
+```
+
+## Agenda
+
+-  To describe the framework for administration ASRS real estate assets in separate accounts
+-  The roles and responsibilities of:
+    +  Combined Asset Class Committee
+    +  Asset manager, if one is utilized
+    +  Property manager
+    +  Fund administrator
+    +  ASRS Staff and Staff Extension Consultant
+- Modifications to the framework for the L3 management transition
+
+## Separate Account Framework
+
+- The CACC governs the creation and administration of separate accounts by authorizing the hiring of investment management to implement a strategy
+- The "asset manager" agreement is the primary contract.  The asset manager has legal authority to manage the fund and properties and typically retains property managers and a fund administrator.  The CACC retains "major decision rights".
+- The property managers administer the properties including maintenance, lease administration and other property activities.  The property manager handles receipt and disbursement of funds for these activities.
+
+## Separate Account Framework (2)
+
+- The fund administrator performs similar functions for the fund itself -- hiring auditors, appraisers and other fund activities.  The fund administrator handles receipt and disbursement of funds for these purposes and manages the capital call process for calling or distributing funds with ASRS.
+- The CACC delegates certain authorities to staff and/or the staff extension consultant, typically including the negotiation of legal documents, certification of compliance with investment guidelines, approval of budgets and other such items.
+- The contract with the asset manager incorporates standard ASRS legal provisions for compliance with Arizona law.
+
+## Typical decision framework
+
+-  CACC typically retains authority to approve any modifications or variances to investment and financing criteria and the sale of assets
+-  Negotiation of venture level legal documents is delegated to ASRS staff in consultation with ASRS approved lawyers
+-  Approval of budgets is delegated to the staff extension consultant
+-  The staff extension consultant performs various monitoring duties including strategic reviews and annual asset reviews
+
+## Typical delegation among asset manager and property manager 
+
+-  The property manager handles property level activities including lease administration, leasing and maintenance
+    + For apartment and similar properties, the property manager executes leases in accordance with an approved form and pricing methodology
+    + For commercial properties, a separate leasing agent is often employed to market the properties but approval and negotiation of leases is handled by the asset manager
+    + The property manager delivers property level financial reports to the asset manager and fund administrator
+    + The property manager handles receipt and disbursement of funds for these purposes
+
+## Typical delegation among asset manager and fund administrator
+
+-  The fund administrator administers the fund
+    + It handles financial reporting and engages an auditor
+    + It handles valuation process and engagement of appraisers
+    + The fund administrator handles receipt and disbursement of funds for these purposes including to and from the properties
+    + The fund administrator administrates a capital call process for receipt and disbursement of funds to ASRS
+    
+## Alternate arrangement for the Pierce assets
+
+-  The CACC has approved the removal of the asset manager Pierce from a separate account it has historically managed
+    +  The CACC concluded that the assets would likely perform better under the direct administration of CACC
+    +  Staff analysis indicated that such internal management would produce substantial savings
+-  The implementation of this requires us to reconsider the  contractual relationships and delegation protocols
+
+## Organizational framework
+
+-  The CACC will retain its traditional control of major decisions.  We will significantly enhance the role of the CACC by adding control of budgets and business plans.
+-  The legal role and authority of the asset manager will replaced by a combination of property managers and a fund administrator
+-  The property managers and fund administrator will be vetted in accordance with the requirements of SIP6 and presented to CACC for approval
+-  All legal work for the properties and fund will be transitioned to ASRS approved lawyers
+
+## Pierce ownership structure
+
+-  The Pierce separate account is an LLC which will be 100% owned by ASRS
+-  The LLC will contract with a fund administrator 
+-  The LLC will contract with a property managers with specialized expertise in the student housing sector
+-  The foregoing contracts will incorporate standard ASRS provisions for compliance with Arizona law and will be negotiated by lawyers under contract with ASRS
+
+## CACC authority
+
+-  The CACC retains all authority not specifically delegated to staff or staff extension consultant, including:
+    + The selection of property management and the fund administrator
+    + The approval of annual budgets, business plans and leasing criteria for the properties and fund
+    + All approvals retained by property owner unless specifically delegated to staff or staff extension consultant
+    + The sale or refinancing of any property
+    
+## Staff delegation
+
+-  The following duties are delegated to ASRS staff
+    +  The negotiation of fund level legal documents in consultation with ASRS approved lawyers
+    +  Approval of minor variances to budgets or business plans less than or equal to $250,000 in aggregate funds per instance
+    
+    
+## Staff extension consultant delegation
+
+-  Monitoring of activities and performance in accordance with approved business plans and budgets
+-  Collaborative determination of the lease pricing protocols with the property manager and monitoring of leasing process implementation by the property manager
+-  Approval of minor budget variances up to $50,000 per instance
+-  Make recommendations to staff and/or the CACC regarding variances greater than $50,000
+-  Make recommendations to CACC concerning sale, refinancing and other strategic matters
+
+## Property manager delegation
+
+-  The property manager will have authority to enter into contracts to administer the property subject to approval rights for material contracts
+-  The property manager will have authrotiy to enter into leases on a form approved by ASRS counsel and in accordance with a pricing protocol determined collaboratively with the staff extension consultant
+-  The property manager will prepare an annual budget which must be approved by owner
+-  The property manager may expend funds in accordance with the budget.  Any variances to the budget must be approved by the owner
+-  The property manager will maintain accounting records for the property and submit regular financial statements to the owner
+
+##  Fund administrator delegation
+
+-  The administrator will have authority to enter into contracts to administer the fund subject to approval rights for material contracts or costs in excess of budget
+    +  The administrator will arrange an audit of the fund 
+    +  The administrator will manage a valuation process for the assets
+-  Any contracts for more than one year require approval of owner
+-  The administrator will prepare an annual budget which must be approved by owner. The administrator may expend funds in accordance with the budget, but any variances to the budget must be approved by the owner
+-  The property manager will maintain books and records for the fund and properties and submit regular financial statements to the owner
